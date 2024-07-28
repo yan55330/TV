@@ -567,6 +567,10 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 安徽综艺,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽影院,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 
+江苏城市,http://ygbh.live/js.php?id=jscs
+江苏综艺,http://ygbh.live/js.php?id=jszy
+江苏综艺,http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv
+
 河北农民,http://27.191.200.93:19999/rtp/239.254.200.23:6000?$HEBEI
 河北少儿,http://27.191.200.93:19999/rtp/239.254.200.21:6000?$HEBEI
 河北影视,http://27.191.200.93:19999/rtp/239.254.200.20:6000?$HEBEI
@@ -589,11 +593,21 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
 滁州新闻,http://live.cztv.cc:85/live/xwpd.m3u8
 
+河南乡村频道,http://4eae7f.tv.netsite.cc/proxy/1890775902/1890775902.m3u8
+河南民生频道,http://4eae7f.tv.netsite.cc/proxy/1346087362/1346087362.m3u8
+河南法制频道,http://4eae7f.tv.netsite.cc/proxy/1472420660/1472420660.m3u8
+河南移动戏曲,http://4eae7f.tv.netsite.cc/proxy/606632094/606632094.m3u8
+河南都市频道,http://4eae7f.tv.netsite.cc/proxy/1492902938/1492902938.m3u8
+河南电视频道,http://4eae7f.tv.netsite.cc/proxy/493614280/493614280.m3u8
+河南公共频道,http://4eae7f.tv.netsite.cc/proxy/1779518772/1779518772.m3u8
+
+河南洛阳新闻综合,http://4eae7f.tv.netsite.cc/proxy/95478034/95478034.m3u8
+洛阳三套文旅,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
+洛阳二套科教,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
 
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-
 
 湖北公共新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
@@ -666,6 +680,9 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 大连新闻,http://59.44.102.18:8888/newlive/live/hls/52/live.m3u8
 大连展播,http://59.44.102.18:8888/newlive/live/hls/54/live.m3u8
 
+长春综合,http://majian.ixiaobai.net:5540/udp/239.37.0.96:5540
+长春综合,http://majian.ixiaobai.net:5540/rtp/239.37.0.096:5540
+
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
@@ -710,6 +727,11 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 海南自贸,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?
 海南自贸,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 
+福建旅游频道,http://4eae7f.tv.netsite.cc/proxy/1739179131/1739179131.m3u8
+福建经视频道,http://4eae7f.tv.netsite.cc/proxy/561753807/561753807.m3u8
+福建体育频道,http://4eae7f.tv.netsite.cc/proxy/1771344389/1771344389.m3u8
+福建公共频道,http://4eae7f.tv.netsite.cc/proxy/639164858/639164858.m3u8
+福建新闻频道,http://4eae7f.tv.netsite.cc/proxy/199601741/199601741.m3u8
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 
 甘肃经济,http://[2409:8087:74F1:0021::0008]/270000001111/1110000326/index.m3u8?
