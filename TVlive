@@ -553,6 +553,9 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 广州影视,http://183.236.32.24:9901/hls/1042/index.m3u8
 广州法治,http://183.236.32.24:9901/hls/1043/index.m3u8
 
+东莞新闻,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+东莞生活,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+
 安徽经济,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
 安徽影院,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 安徽综艺,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
