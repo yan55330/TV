@@ -548,6 +548,8 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 
 山西经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+山西社会,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
+山西文体,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 黄河电视台,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=2c55fc6940d8fb876b26bce0c4d49163&txTime=19096360e7f
@@ -600,6 +602,21 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 河南洛阳新闻综合,http://4eae7f.tv.netsite.cc/proxy/95478034/95478034.m3u8
 洛阳三套文旅,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
 洛阳二套科教,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
+
+南京新闻,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
+南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
+南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+
+江西都市,http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?t=t&token=t
+江西经视,http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?t=t&token=t
+江西影视,http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?t=t&token=t
+江西公共,http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?t=t&token=t
+江西少儿,http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?t=t&token=t
+江西新闻,http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?t=t&token=t
+江西移动,http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?t=t&token=t
+陶瓷频道,http://yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?t=t&token=t
 
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
