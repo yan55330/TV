@@ -281,8 +281,9 @@ CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/in
 黑龙江卫视,http://111.20.33.70/TVOD/88888893/224/3221226215/index.m3u8
 黑龙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
 
-吉林卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000046BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QOVSARKsxkWGZw7vFUuOj2QqUR6TTs3uuC0H2mr3p6fRRazyiEPmSIyh%2BRO1%2BU3q84
-吉林卫视,http://39.134.66.110/PLTV/88888888/224/3221225981/index.m3u8
+吉林卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+吉林卫视,http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
 
 东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
@@ -360,6 +361,11 @@ CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/in
 
 海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://58.248.112.205:8006/GD_CUCC/G_HAINAN-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHTh7JGAu1YMGJ6XT%2FnqLPsRZEJK%2BpW4Fs700noHhVlGc&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
+
+三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
+三沙卫视,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/08984400000000060000000000000319/1.m3u8
+三沙卫视,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/08984400000000060000000000000319/index.m3u8
+三沙卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
@@ -523,6 +529,9 @@ BRTV影视,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
 BRTV文艺,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
 BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 
+睛彩篮球,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+睛彩竞技,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+
 淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
 淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
@@ -588,30 +597,9 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
 滁州新闻,http://live.cztv.cc:85/live/xwpd.m3u8
 
-河南乡村频道,http://4eae7f.tv.netsite.cc/proxy/1890775902/1890775902.m3u8
-河南民生频道,http://4eae7f.tv.netsite.cc/proxy/1346087362/1346087362.m3u8
-河南法制频道,http://4eae7f.tv.netsite.cc/proxy/1472420660/1472420660.m3u8
-河南移动戏曲,http://4eae7f.tv.netsite.cc/proxy/606632094/606632094.m3u8
-河南都市频道,http://4eae7f.tv.netsite.cc/proxy/1492902938/1492902938.m3u8
-河南电视频道,http://4eae7f.tv.netsite.cc/proxy/493614280/493614280.m3u8
-河南公共频道,http://4eae7f.tv.netsite.cc/proxy/1779518772/1779518772.m3u8
-
 河南洛阳新闻综合,http://4eae7f.tv.netsite.cc/proxy/95478034/95478034.m3u8
 洛阳三套文旅,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
 洛阳二套科教,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
-
-梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
-文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-
-湖北公共新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
-湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
-湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
-湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
-湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
-湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
-湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
-
 
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -722,13 +710,6 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 海南自贸,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?
 海南自贸,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 
-福建旅游频道,http://4eae7f.tv.netsite.cc/proxy/1739179131/1739179131.m3u8
-福建经视频道,http://4eae7f.tv.netsite.cc/proxy/561753807/561753807.m3u8
-福建体育频道,http://4eae7f.tv.netsite.cc/proxy/1771344389/1771344389.m3u8
-福建公共频道,http://4eae7f.tv.netsite.cc/proxy/639164858/639164858.m3u8
-福建新闻频道,http://4eae7f.tv.netsite.cc/proxy/199601741/199601741.m3u8
-福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-
 甘肃经济,http://[2409:8087:74F1:0021::0008]/270000001111/1110000326/index.m3u8?
 甘肃都市,http://[2409:8087:74F1:0021::0008]/270000001111/1110000324/index.m3u8?
 甘肃公共应急,http://[2409:8087:74F1:0021::0008]/270000001111/1110000325/index.m3u8?
@@ -821,10 +802,6 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.
 龙祥电影,http://171.108.239.80:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://171.108.239.11:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://171.108.239.79:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-CHC家庭电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 
 CHC动作电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
