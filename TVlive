@@ -647,13 +647,6 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
 滁州新闻,http://live.cztv.cc:85/live/xwpd.m3u8
 
-
-南京新闻,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
-南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
-南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -788,17 +781,6 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 南宁新闻,http://171.108.239.11:8181/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁新闻,http://171.108.239.80:8181/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁新闻,http://171.108.239.79:8181/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
-
-南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁影视,https://hls.nntv.cn/nnlive/YSYL_24.m3u8
-
-宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
-宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
-宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
-宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 
 贵州公共,http://code.shaohong86.cn:8888/rtp/238.255.2.2:5999
 贵州影视,http://code.shaohong86.cn:8888/rtp/238.255.2.3:5999
