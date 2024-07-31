@@ -376,8 +376,6 @@ CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/in
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
-中国交通,http://222.129.32.10:8888/rtp/239.3.1.188:8001
-中国交通,http://ipv6.dzxhb.top:8888/rtp/239.10.0.143:5140
 
 金鹰纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 茶频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
