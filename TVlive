@@ -375,6 +375,7 @@ CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/in
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
+中国交通,http://222.129.32.10:8888/rtp/239.3.1.188:8001
 
 金鹰纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 茶频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -537,6 +538,10 @@ BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 
 睛彩篮球,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 睛彩竞技,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+睛彩竞技,http://222.129.32.10:8888/rtp/239.3.1.125:8001
+睛彩篮球,http://222.129.32.10:8888/rtp/239.3.1.126:8001
+睛彩羽毛球,http://222.129.32.10:8888/rtp/239.3.1.127:8001
+睛彩广场舞,http://222.129.32.10:8888/rtp/239.3.1.128:8001
 
 淘电影,http://114.246.102.14:4000/rtp/239.3.1.250:8001
 淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
@@ -770,6 +775,16 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.
 
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 第一卫视,http://play2.one-tv.com/live/onetv.m3u8
+
+TVB高清翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+HOY TV,http://bziyunshao.synology.me:8891/bysid/76
+HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+HOY TV资讯,http://bziyunshao.synology.me:8891/bysid/78
+
+靖天电影台,http://37.27.111.214:8080/live/18/hls.m3u8
+靖洋戏剧台,http://37.27.111.214:8080/live/17/hls.m3u8
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+八大综合,http://37.27.111.214:8080/live/21/hls.m3u8
 
 东森洋片,http://171.108.239.11:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 东森洋片,http://171.108.239.80:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
