@@ -574,6 +574,8 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 广东少儿,http://180.142.220.34:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://180.142.220.34:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://180.142.220.34:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://180.142.220.36:8181/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://180.142.220.36:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 广州综合,http://183.236.32.24:9901/hls/1040/index.m3u8
 广州新闻,http://183.236.32.24:9901/hls/1041/index.m3u8
@@ -627,6 +629,11 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
 滁州新闻,http://live.cztv.cc:85/live/xwpd.m3u8
+
+荆门科教,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8?
+荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+荆门新闻,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=bde94c031719918903
+荆门新闻,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=ffb84e861707375004
 
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -801,7 +808,9 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 第一卫视,http://play2.one-tv.com/live/onetv.m3u8
 
-TVB高清翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+翡翠台,http://113.83.152.56:8182/bynumber/1
+翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 HOY TV,http://bziyunshao.synology.me:8891/bysid/76
 HOY 77,http://bziyunshao.synology.me:8891/bysid/77
 HOY 78,http://bziyunshao.synology.me:8891/bysid/78
