@@ -726,11 +726,8 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/index.m3u8
 
 甘肃经济,http://[2409:8087:74F1:0021::0008]/270000001111/1110000326/index.m3u8?
-甘肃都市,http://[2409:8087:74F1:0021::0008]/270000001111/1110000324/index.m3u8?
-甘肃公共应急,http://[2409:8087:74F1:0021::0008]/270000001111/1110000325/index.m3u8?
-甘肃文化影视,http://[2409:8087:74F1:0021::0008]/270000001111/1110000323/index.m3u8?
-甘肃少儿,http://[2409:8087:74F1:0021::0008]/270000001111/1110000327/index.m3u8?
-兰州新闻综合,http://[2409:8087:74F1:0021::0008]/270000001111/1110000328/index.m3u8?
+
+兰州新闻,http://[2409:8087:74F1:0021::0008]/270000001111/1110000328/index.m3u8?
 
 四川文化,http://118.122.2.29:9999/hls/52/index.m3u8
 四川影视,http://118.122.2.29:9999/hls/53/index.m3u8
@@ -757,10 +754,6 @@ CDTV6,http://ipv6.dzxhb.top:8888/udp/239.10.0.16:5140
 
 广西国际频道,https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
 
-广西新闻,http://180.142.220.34:8181/tsfile/live/1052_1.m3u8?key=txiptv&playlive=0&authid=0
-广西都市,http://180.142.220.34:8181/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
-广西综艺,http://180.142.220.34:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-
 广西影视,http://171.108.239.84:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.108.239.80:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.108.239.79:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -777,6 +770,10 @@ CDTV6,http://ipv6.dzxhb.top:8888/udp/239.10.0.16:5140
 广西都市,http://171.108.239.80:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://171.108.239.11:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://171.108.239.79:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+
+广西新闻,http://180.142.220.34:8181/tsfile/live/1052_1.m3u8?key=txiptv&playlive=0&authid=0
+广西都市,http://180.142.220.34:8181/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
+广西综艺,http://180.142.220.34:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 
 南宁公共,http://171.108.239.84:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁公共,http://171.108.239.80:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -808,17 +805,7 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 第一卫视,http://play2.one-tv.com/live/onetv.m3u8
 
-翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 翡翠台,http://113.83.152.56:8182/bynumber/1
-翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-HOY TV,http://bziyunshao.synology.me:8891/bysid/76
-HOY 77,http://bziyunshao.synology.me:8891/bysid/77
-HOY 78,http://bziyunshao.synology.me:8891/bysid/78
-
-靖天电影台,http://37.27.111.214:8080/live/18/hls.m3u8
-靖洋戏剧台,http://37.27.111.214:8080/live/17/hls.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-八大综合,http://37.27.111.214:8080/live/21/hls.m3u8
 
 CHC动作电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -850,7 +837,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 黑莓电影,http://39.134.65.173/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影,http://39.134.65.175/PLTV/88888888/224/3221225681/index.m3u8
 
-
 精彩影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 精彩影视,http://117.190.144.101:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 精彩影视,https://epg.pw/stream/8dab71378c5bf4b3859fa4bba0fc4af1635cbd815763801c23c64ce7b50ce5d4.m3u8
@@ -873,8 +859,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 电视剧9,http://zby.xjqxz.top/dzzypd3/live.m3u8
 
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
