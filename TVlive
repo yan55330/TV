@@ -572,8 +572,9 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 广东少儿,http://180.142.220.34:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://180.142.220.34:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://180.142.220.34:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://180.142.220.36:8181/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://180.142.220.36:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://180.142.220.34:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://180.142.220.34:8181/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://180.142.220.34:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 广州综合,http://183.236.32.24:9901/hls/1040/index.m3u8
 广州新闻,http://183.236.32.24:9901/hls/1041/index.m3u8
@@ -767,9 +768,6 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 重温经典,http://[2409:8087:2801:22:100::76]/wh7f454c46tw1394075491_-2119906554/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717812218&from=5&hms_devid=330&online=1717812218&vqe=3
 重温经典,http://[2409:8087:2801:22:100::76]/wh7f454c46tw1394075491_2119906554/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717812218&from=5&hms_devid=330&online=1717812218&vqe=3
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
-Y+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
-Drama,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
-Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
 
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 第一卫视,http://play2.one-tv.com/live/onetv.m3u8
@@ -820,13 +818,11 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 芒果TV3,http://zby.xjqxz.top/gzdsj1/live.m3u8
 芒果TV4,http://zby.xjqxz.top/gzdsj2/live.m3u8
 电视剧1,http://zby.xjqxz.top/dsdsj3/live.m3u8
-
 电视剧3,http://zby.xjqxz.top/gzdsj3/live.m3u8
 电视剧4,http://zby.xjqxz.top/gzdsj4/live.m3u8
 电视剧5,http://zby.xjqxz.top/gzdsj5/live.m3u8
 电视剧6,http://zby.xjqxz.top/kzzypd/live.m3u8
 电视剧7,http://zby.xjqxz.top/dzzypd/live.m3u8
-
 电视剧9,http://zby.xjqxz.top/dzzypd3/live.m3u8
 
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
