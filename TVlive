@@ -786,6 +786,10 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 广西都市,http://171.108.239.127:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://171.108.239.124:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 
+云南都市,http://119.62.36.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+云南康旅,http://119.62.36.174:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+云南娱乐,http://119.62.36.174:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+
 贵州公共,http://code.shaohong86.cn:8888/rtp/238.255.2.2:5999
 贵州公共,http://gzcx.shaohong86.cn:8888/rtp/238.255.2.2:5999
 贵州大众,http://code.shaohong86.cn:8888/rtp/238.255.2.4:5999
