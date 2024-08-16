@@ -146,10 +146,6 @@ CCTV4美洲,http://code.shaohong86.cn:8888/rtp/238.255.2.214:5999
 凤凰香港,http://171.108.239.129:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8$LR•IPV4『线路4』
 
-凤凰中文,http://www.mytvsuper.us.kg/live.php?id=pcc
-凤凰资讯,http://www.mytvsuper.us.kg/live.php?id=pin
-凤凰香港,http://www.mytvsuper.us.kg/live.php?id=phk
-
 CETV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 
@@ -580,7 +576,6 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=2c55fc6940d8fb876b26bce0c4d49163&txTime=19096360e7f
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-
 南国都市,https://stream1.freetv.fun/6a602a89e0c4b88dd7d8762303fb89b2b96bdd5e578ef935e975f32590f5e39b.m3u8
 南国都市,https://stream1.freetv.fun/b08c82d3989ee717e8aa19c4f14d85aeb077f6c9699623d3a341b47126968c0e.m3u8
 南国都市,https://stream1.freetv.fun/83ff5ee18d8b482976839b6f55fa09b17d2fdd3a2a99abbc68e99e1586db3954.m3u8
@@ -741,14 +736,6 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 长春综合,http://majian.ixiaobai.net:5540/udp/239.37.0.96:5540
 长春综合,http://majian.ixiaobai.net:5540/rtp/239.37.0.096:5540
 
-长春市民,https://stream1.freetv.fun/e61cf316076fd61e81908eebc69528a5699100ad49bb7fcf845aa1f006d029c6.ctv
-长春汽车,https://stream1.freetv.fun/48b28b7b0efed47d74d3e88d206b2ce5f6c4debf75e81deffb9c43b1849e7f99.ctv
-长春汽车,https://stream1.freetv.fun/77f99267c47d302f8e99cdb36e273e0c206b388be96f679fe15007c39a7dda0f.ctv
-长春经济,https://stream1.freetv.fun/54e6b81e5c235225ac50657e51688f19e96a9eaeac432efbbcea18832dc31430.ctv
-长春经济,https://stream1.freetv.fun/1eb2a0c3287cd41f7bbd89d6e66bd616d0fdbb0c4b14b572e1ce2754cb9e4e31.ctv
-长春综合,https://stream1.freetv.fun/27dc547501ec1e531d48a1a0fa5505c49b299c871d367a6f6d0712547c1e61e1.ctv
-长春综合,https://stream1.freetv.fun/f442dd35d526d262f94a6b5c14f531b756ab2643e5d0e1e1cbd6c56044e2a1bc.ctv
-
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
@@ -766,16 +753,6 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/index.m3u8
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/index.m3u8
 
-福建公共,https://stream1.freetv.fun/eb38a9757c3b11cf6f9dd47b141214a93d903687440222b5f45cf31c743c65c5.ctv
-福建少儿,https://stream1.freetv.fun/f34630c2b9b58168b785a0588e962816096f1debd9858111b41696e7258a8458.ctv
-福建教育,https://stream1.freetv.fun/36eae2b527a8d404c287973685cdf10ce5d37ea2c2e26182422fe1b0bede874e.ctv
-福建新闻,https://stream1.freetv.fun/ac39f64c2f01a51fdf8a9e3f366d724bace6e162104ddb2ff5bde5e7bad2dc39.ctv
-福建旅游,https://stream1.freetv.fun/b795a5224d8e1dbd6abd7278e0c6a1a607ccff355d93db89a5186a0e6d0c4da0.ctv
-福建综合,https://stream1.freetv.fun/0a88d1e0106cc3f6756bc719037b3b5b00ec7cd543025e8a0104e0c671734c63.ctv
-福建综合,https://stream1.freetv.fun/bcc765fc0d5e68d6c8db410ec136315a7e85dbcbd7b0a33d5e0e3e709f4be1e7.ctv
-福建电视剧,https://stream1.freetv.fun/8207d8bf41073ade79b7f3c9648fb647f9e8287b9c71fe708d1aa6c6b170ba0c.ctv
-福建电视剧,https://stream1.freetv.fun/9eebffd9c7336520335d4f09b810c3c585da3da907acaaae73ade33ad902c707.m3u8
-
 四川新闻,http://110.189.102.15:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 四川影视,http://110.189.102.15:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 四川文化,http://118.122.2.29:9999/hls/52/index.m3u8
@@ -792,6 +769,22 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 西藏影视文化,https://stream1.freetv.fun/6858d614eb2131658acab77792d5cb95f6cf4cefdfc6ebd8dcc5d6c773b39d86.ctv
 
 广西国际频道,https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
+广西影视,http://171.108.239.124:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://171.108.239.128:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://171.108.239.127:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://171.108.239.129:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://171.108.239.128:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://171.108.239.129:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://171.108.239.127:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://171.108.239.124:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺,http://171.108.239.129:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺,http://171.108.239.127:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺,http://171.108.239.128:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺,http://171.108.239.124:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://171.108.239.129:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://171.108.239.128:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://171.108.239.127:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://171.108.239.124:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 
 贵州公共,http://code.shaohong86.cn:8888/rtp/238.255.2.2:5999
 贵州公共,http://gzcx.shaohong86.cn:8888/rtp/238.255.2.2:5999
