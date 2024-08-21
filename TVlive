@@ -134,20 +134,9 @@ CCTV-15,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/
 CCTV-16,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-17,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-CCTV4K,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/116/2024081303.m3u8
-CCTV8K,http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/016/2020603421.m3u8
+CCTV4欧洲,http://qhjx.top:18000/udp/238.255.2.213:5999
+CCTV4美洲,http://qhjx.top:18000/udp/238.255.2.214:5999
 
-CCTV4欧洲,http://media.shaohong86.cn:8888/rtp/238.255.2.213:5999
-CCTV4欧洲,http://code.shaohong86.cn:8888/rtp/238.255.2.213:5999
-CCTV4美洲,http://media.shaohong86.cn:8888/rtp/238.255.2.214:5999
-CCTV4美洲,http://code.shaohong86.cn:8888/rtp/238.255.2.214:5999
-
-凤凰香港,http://180.137.22.80:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://171.108.239.124:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://171.108.239.127:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://171.108.239.128:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://171.108.239.129:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8$LR•IPV4『线路4』
 
 CETV-1,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
@@ -287,8 +276,6 @@ CETV-4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/in
 
 东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8
-
-海峡卫视,http://[2409:8087:2801:20:100::41]/wh7f454c46tw980985231_658488392/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/index.m3u8?icpid=88888888&RTS=1717811805&from=5&hms_devid=371&online=1717811805&vqe=3$LR•IPV6『线路1』
 
 厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 厦门卫视,http://111.20.33.93/PLTV/88888893/224/3221226219/index.m3u8
@@ -810,17 +797,6 @@ BTV纪实科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000123
 云南康旅,http://119.62.36.174:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 云南娱乐,http://119.62.36.174:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 
-贵州公共,http://code.shaohong86.cn:8888/rtp/238.255.2.2:5999
-贵州公共,http://gzcx.shaohong86.cn:8888/rtp/238.255.2.2:5999
-贵州大众,http://code.shaohong86.cn:8888/rtp/238.255.2.4:5999
-贵州大众,http://gzcx.shaohong86.cn:8888/rtp/238.255.2.4:5999
-贵州生态,http://code.shaohong86.cn:8888/rtp/238.255.2.5:5999
-贵州生态,http://gzcx.shaohong86.cn:8888/rtp/238.255.2.5:5999
-贵州科教,http://code.shaohong86.cn:8888/rtp/238.255.2.6:5999
-贵州科教,http://gzcx.shaohong86.cn:8888/rtp/238.255.2.6:5999
-贵州经济,http://code.shaohong86.cn:8888/rtp/238.255.2.9:5999
-贵州经济,http://gzcx.shaohong86.cn:8888/rtp/238.255.2.9:5999
-
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 第一卫视,http://play2.one-tv.com/live/onetv.m3u8
@@ -886,17 +862,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 龙祥电影,http://171.108.239.128:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://171.108.239.129:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://171.108.239.124:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-
-芒果TV1,http://zby.xjqxz.top/dsdsj1/live.m3u8
-芒果TV2,http://zby.xjqxz.top/dsdsj2/live.m3u8
-芒果TV3,http://zby.xjqxz.top/gzdsj1/live.m3u8
-芒果TV4,http://zby.xjqxz.top/gzdsj2/live.m3u8
-电视剧1,http://zby.xjqxz.top/dsdsj3/live.m3u8
-电视剧3,http://zby.xjqxz.top/gzdsj3/live.m3u8
-电视剧4,http://zby.xjqxz.top/gzdsj4/live.m3u8
-电视剧5,http://zby.xjqxz.top/gzdsj5/live.m3u8
-电视剧6,http://zby.xjqxz.top/kzzypd/live.m3u8
-电视剧9,http://zby.xjqxz.top/dzzypd3/live.m3u8
 
 中天新闻,https://www.qiuyels.top/proxy.php?id=4gtv-4gtv009
 影迷數位電影台,https://www.qiuyels.top/proxy.php?id=4gtv-4gtv011
