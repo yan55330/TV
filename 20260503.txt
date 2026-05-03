@@ -986,7 +986,9 @@ JYTV,http://124.116.170.138:8081/rtp/239.111.205.107:5140
 广东珠江,http://183.62.8.58:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-
+广东经济,http://27.39.122.4:9901/tsfile/live/1029_1.m3u8?key=txiptv
+广东体育,http://27.39.122.4:9901/tsfile/live/1027_1.m3u8?key=txiptv
+广东珠江,http://27.39.122.4:9901/tsfile/live/1025_1.m3u8?key=txiptv
 
 
 
@@ -1030,6 +1032,11 @@ JYTV,http://124.116.170.138:8081/rtp/239.111.205.107:5140
 
 
 中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
+
+
+深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv
+深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv
+深圳电视剧,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8?key=txiptv
 
 深圳都市,http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳电视剧,http://111.221.137.234:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1561,6 +1568,9 @@ NBTV-4,http://zj-zb-lt.sohu.blog:7912/rtp/233.50.201.180:5140
 山东教育,http://marcvision.xyz:8000/rtp/238.1.78.254:7904
 山东教育,http://www.marcvision.xyz:8000/rtp/238.1.78.254:7904
 
+山东体育,http://182.37.41.46:8154/tsfile/live/1000_1.m3u8?key=txiptv
+
+
 辽宁影视,http://182.207.218.239:999/tsfile/live/1001_1.m3u8?key=txiptv
 辽宁影视,http://fuxin.yunjifei.top:999/tsfile/live/1001_1.m3u8?key=txiptv
 辽宁都市,http://182.207.218.239:999/tsfile/live/1000_1.m3u8?key=txiptv
@@ -2051,7 +2061,8 @@ RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 
-
+NewsMax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 
