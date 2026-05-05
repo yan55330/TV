@@ -1,5 +1,21 @@
 📺电视,#genre#
 
+CCTV1 综合4K,https://www.9kds.com/cn/hls/channel1.m3u8
+
+CCTV1 综合,https://www.9kds.com/cn/hls/channel2.m3u8
+
+CCTV2 财经,https://www.9kds.com/cn/hls/channel3.m3u8
+
+CCTV3 综艺4K,https://www.9kds.com/cn/hls/channel4.m3u8
+
+CCTV3 综艺,https://www.9kds.com/cn/hls/channel5.m3u8
+CCTV4 中文国际,https://www.9kds.com/cn/hls/channel6.m3u8
+
+CCTV5 体育4K,https://www.9kds.com/cn/hls/channel7.m3u8
+
+CCTV5 体育,https://www.9kds.com/cn/hls/channel8.m3u8
+
+CCTV5+ 体育赛事,https://www.9kds.com/cn/hls/channel9.m3u8
 
 
 CCTV-1,http://113.241.133.180:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
